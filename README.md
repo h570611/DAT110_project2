@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## DAT110 - Project 2: Publish-subscribe messaging middleware
 
 ### Organisation
@@ -382,3 +383,6 @@ The figure below summarises the implementation with the red boxes indicating cla
 Each group must hand in a link on Canvas to a git-repository containing their implementation.
 
 Please remember to hand-in as a member of a group in Canvas: https://hvl365-my.sharepoint.com/:w:/g/personal/akv_hvl_no/EdkQXNKVjmhPrHNtD3n5r74B6KSb7DwmVYf9MA3SIUA4Sw?e=hC5Q9i
+=======
+# DAT110_project2
+>>>>>>> c035f1d5190d7eb2f561e4283860de044c75e02d
